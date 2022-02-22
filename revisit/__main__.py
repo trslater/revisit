@@ -1,4 +1,4 @@
-from .app import App
+from .main import MainApp
 
-app = App()
+app = MainApp()
 app.run()
